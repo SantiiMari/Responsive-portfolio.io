@@ -1,0 +1,21 @@
+@media only screen and (max-width: 640px) {
+
+    #main-container {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    #logo {
+width: 100%;
+    }
+    nav  {
+        /* display: flex;
+        justify-content: center;
+        display: inline; */
+        float: left;
+        padding-left: 150px;
+        
+    }
+footer {
+    width: 100%;
+}
+}
